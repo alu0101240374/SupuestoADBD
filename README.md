@@ -1,4 +1,4 @@
 Grupo:  
-Elena Rijo García
-Alejandro Peraza González
+Elena Rijo García,
+Alejandro Peraza González,
 Gabriel García Jaubert
